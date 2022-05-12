@@ -17,3 +17,9 @@ sudo apt-get nvim
 ```shell
 sudo apt-get wget
 ```
+## 安装 git
+
+```shell
+sudo apt-get git
+git --version
+```
